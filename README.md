@@ -81,28 +81,32 @@ git clone https://github.com/your-username/amazon-sales-analysis.git
 ### Sales Dashboard
 *Overview of total profit, revenue, shipment days, and regional profit distribution*
 
-https://github.com/user-attachments/assets/448d6111-6beb-4da1-802f-a2fdcae02713
+
+![Screenshot 2024-08-13 154253](https://github.com/user-attachments/assets/4debf5ca-17d7-4f4e-94ce-cc948b29b5ce)
 
 
 
 ### Revenue Analysis
 *Yearly revenue trends and shipping day analysis*
 
-https://github.com/user-attachments/assets/368568ef-2b9c-45b4-afc0-4305f445ea91
 
+
+![Screenshot 2024-08-13 160704](https://github.com/user-attachments/assets/6b2bd207-c57e-4d6d-8ce6-c1c05289fa65)
 
 
 ### Item Analysis
 *Detailed breakdown of revenue, cost, profit, and orders by item categories*
 
-https://github.com/user-attachments/assets/916f2c99-8ade-4089-8e49-399eff2903b8
 
+
+![Screenshot 2024-08-13 154400](https://github.com/user-attachments/assets/c5b6e4b2-94c1-4dbc-9f0f-ba32f6dbdd2f)
 
 
 ### Executive Analysis
 *Executive-level insights on sales channels, order trends, and yearly cost analysis*
 
-https://github.com/user-attachments/assets/9d8b4e53-683c-42b3-8ac5-c305ef4efac4
+
+![Screenshot 2024-08-13 154315](https://github.com/user-attachments/assets/37969a34-0e0f-4188-b475-4cb0e07744f0)
 
 
 
